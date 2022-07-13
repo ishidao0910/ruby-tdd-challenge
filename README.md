@@ -21,3 +21,8 @@ docker run -it -d --name ruby_tdd ruby/tdd:3.1.2
 docker exec -it ruby_tdd ash
 ```
 
+# LEARN
+use this repo for studying ruby introduction
+```
+https://github.com/training-mode/ruby/tree/master/intro
+```
